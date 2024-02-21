@@ -1,0 +1,32 @@
+{
+  "avisos": [
+    {
+      "data_aviso": "2002-02-03",
+      "exemplo_aviso": "aviso"
+    },
+    {
+      "data_aviso": "2001-02-03",
+      "exemplo_aviso": "aviso"
+    },
+    {
+      "data_aviso": "2004-02-03",
+      "exemplo_aviso": "aviso"
+    },
+    {
+      "data_aviso": "2002-02-03",
+      "exemplo_aviso": "aviso"
+    },
+    {
+      "data_aviso": "2004-02-03",
+      "exemplo_aviso": "aviso"
+    },
+    {
+      "data_aviso": "2001-02-03",
+      "exemplo_aviso": "aviso"
+    },
+    {
+      "data_aviso": "2001-02-03",
+      "exemplo_aviso": "aviso"
+    }
+  ]
+}
